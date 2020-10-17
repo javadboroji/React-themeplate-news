@@ -1,0 +1,13 @@
+.item-body img{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+.item-body h5:hover{
+    color: red !important;
+    cursor: pointer;
+}
+.item-body p{
+    font-size: 14px;
+  
+}

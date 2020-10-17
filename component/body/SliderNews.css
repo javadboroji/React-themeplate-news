@@ -1,0 +1,17 @@
+.carousel-inner {
+    height: 250px;
+}
+.carouse-img{
+    height: 250px;
+    object-fit: cover;
+}
+.carousel-caption p{
+    color: rgb(8, 231, 0);
+   
+}
+.btn-outline-secondary{
+    border-radius: 0px 50px 50px 0px !important;
+}
+.form-control{
+    border-radius: 50px 0px 0px 50px !important;
+}
